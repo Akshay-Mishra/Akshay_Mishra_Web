@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana,Geneva,Arial,sans-serif;
+    font-size: small;
+}
+
+h1{ 
+    font-size:170%;
+}
+
+h2{ 
+    font-size:130%;
+}
+
+h1, h2{
+    font-weight:normal;
+    color:#cc6600;
+    border-bottom:dotted;
+    border-bottom-color: #888888;
+    border-width:thin;
+}
+
+blockquote{
+    font-style: italic;
+}
+
+img {
+    border-style:solid;
+    width: thin;
+    color: #cc6600;
+}

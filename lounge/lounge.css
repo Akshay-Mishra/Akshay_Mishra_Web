@@ -1,0 +1,30 @@
+p { color:maroon;
+font-family:sans-serif;
+}
+
+h1, h2 {
+    font-family:sans-serif;
+    color:gray;
+}
+
+h1 {
+    border-bottom-width:1px;
+    border-bottom-color:#000000;
+    border-bottom-style:solid;
+}
+
+.greentea {
+    color:green;
+}
+
+.raspberry {
+    color:blue;
+}
+
+.blueberry {
+    color:purple;
+}
+
+.cranberry {
+    color:maroon;
+}
